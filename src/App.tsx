@@ -51,7 +51,7 @@ const ChartWrapperInfo = styled.div`
 `;
 
 const links: Array<{ label: string; link: string }> = [
-  { label: "Github", link: "" },
+  { label: "Github", link: "https://github.com/zipluciano/tarantino-charts" },
   {
     label: "TanStack - React Charts",
     link: "https://react-charts.tanstack.com/docs/overview"
